@@ -17,7 +17,7 @@
 	<artifactId>format-datasift</artifactId>
 	<version>8.5-SNAPSHOT</version>
 	
-	<name>Format_DataSift</name>
+	<name>Format: DataSift</name>
 	<description>Document Format plugin to support reading DataSift JSON files</description>
 
 	<licenses>
